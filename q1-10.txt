@@ -1,0 +1,27 @@
+1.
+*p3 = S
+*p3 = T, p3 = 6940
+*p1 = S, p1 = 6940
+
+2.
+D
+
+3.
+Different datatypes
+
+4.
+A
+C
+B
+A
+
+B
+C
+
+B
+C
+C
+C
+
+
+
