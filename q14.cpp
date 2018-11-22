@@ -5,7 +5,7 @@ using namespace std;
 //main
 int main(){
 	//declaring the character array
-	char arr[13]="Diprupa Saha";
+	char arr[13]="Pritam Biswas";
 	
 	//Display the whole array
 	cout<<arr<<endl<<endl;
